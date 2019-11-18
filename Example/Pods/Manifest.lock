@@ -1,0 +1,16 @@
+PODS:
+  - StaffModule (0.1.0)
+
+DEPENDENCIES:
+  - StaffModule (from `../`)
+
+EXTERNAL SOURCES:
+  StaffModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  StaffModule: 833120dcd6f1d91a6b567fba1a8a4fa22732d550
+
+PODFILE CHECKSUM: 518f7bfcca7c546cf6cf55bf8178e1e89c4978d8
+
+COCOAPODS: 1.8.4

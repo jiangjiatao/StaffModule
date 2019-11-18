@@ -1,0 +1,6 @@
+framework module StaffModule {
+  umbrella header "StaffModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
