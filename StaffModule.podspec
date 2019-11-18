@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 StaffModule is a module
                        DESC
 
-  s.homepage         = 'https://github.com/jiangjiatao/StaffModule'
+  s.homepage         = 'https://github.com/jiangjiatao/StaffM'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '937840988@qq.com' => '15304072722@163.com' }
-  s.source           = { :git => 'https://github.com/jiangjiatao/StaffModule.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/jiangjiatao/StaffM.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
